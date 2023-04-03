@@ -1,0 +1,1 @@
+download from  paper [A Linear Programming Formulation for Global Inference in Natural Language Tasks](https://aclanthology.org/W04-2401.pdf)
